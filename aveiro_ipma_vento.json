@@ -1,10 +1,10 @@
 [{"IdRegiao":1210702}, {
-        "intensidadeVentoKM": 14.0, 
-        "temperatura": 22.4, 
-        "radiacao": 2967.9, 
-        "idDireccVento": 8, 
+        "intensidadeVentoKM": 3.2, 
+        "temperatura": 14.8, 
+        "radiacao": 0.0, 
+        "idDireccVento": 5, 
         "precAcumulada": 0.0, 
-        "intensidadeVento": 3.9, 
-        "humidade": 79.0, 
-        "pressao": 1013.5
+        "intensidadeVento": 0.9, 
+        "humidade": 90.0, 
+        "pressao": 1019.4
 }]
